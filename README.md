@@ -4,4 +4,4 @@ Simple tic tac toe game built with html / css / typescript and the help of my 3 
 We have a lot of fun playing it. The happiness is in the simple things.
 # ☺
 
-To start, execute ```yarn start``` (or npm run start). 
+To start, execute ```yarn start``` (or npm run start), or play it here: https://igoraguiar.github.io/tic-tac-toe/
