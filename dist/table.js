@@ -7,7 +7,7 @@ define(["require", "exports"], function (require, exports) {
             this.squares = [];
             this.values = [];
             this.valuesLabels = {
-                X: '&#x274c;',
+                X: 'X',
                 O: '⚫'
             };
             this.nextValue = 'X';
